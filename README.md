@@ -17,12 +17,14 @@ From crafting enterprise-grade solutions to building fun side projects, I thrive
 ---
 
 ## 🧩 Automation Frameworks:
-<img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" alt="TestNG"/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-<img src="https://img.shields.io/badge/Robot_Framework-000000.svg?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
-<img src="https://img.shields.io/badge/Behave-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
-<img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pytest"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Robot_Framework-000000.svg?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
+  <img src="https://img.shields.io/badge/Behave-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pytest"/>
+</p>
 
 ---
 
