@@ -7,14 +7,10 @@ From crafting enterprise-grade solutions to building fun side projects, I thrive
 
 💡 *"Automation isn’t just about running tests faster — it’s about designing a system that thinks ahead."*
 
----
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_khandelwal01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-khandelwal-02210059) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishkhandelwal01@hotmail.com)  
-
----
 
 ## 🧩 Automation Frameworks:
 <p align="left">
@@ -25,8 +21,6 @@ From crafting enterprise-grade solutions to building fun side projects, I thrive
   <img src="https://img.shields.io/badge/Behave-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pytest"/>
 </p>
-
----
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
@@ -60,7 +54,6 @@ From crafting enterprise-grade solutions to building fun side projects, I thrive
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 
----
 
 ## 📊 Specialties:
 - 🎯 **Test Automation Framework Architecture** – Designing scalable, maintainable, and reusable frameworks  
@@ -69,24 +62,16 @@ From crafting enterprise-grade solutions to building fun side projects, I thrive
 - 🔄 **CI/CD Pipeline Integration** – Automating the path to production  
 - 🌍 **Cross-platform and Cross-browser Testing** – Ensuring quality across environments  
 
----
-
 ## 📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashish-khandelwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=ashish-khandelwal01&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-khandelwal01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashish-khandelwal01&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=ashish-khandelwal01&icon=0&color=0)](https://visitcount.itsvg.in)
 
