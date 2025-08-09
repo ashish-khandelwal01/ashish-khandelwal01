@@ -10,21 +10,19 @@ From crafting enterprise-grade solutions to building fun side projects, I thrive
 ---
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_khandelwal01)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-khandelwal-02210059)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_khandelwal01) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-khandelwal-02210059) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishkhandelwal01@hotmail.com)  
 
 ---
 
 ## 🧩 Automation Frameworks:
-<p align="center">
-  <img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" alt="TestNG"/>
-  <img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Robot_Framework-000000.svg?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
-  <img src="https://img.shields.io/badge/Behave-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pytest"/>
-</p>
+<img src="https://img.shields.io/badge/TestNG-%23FF6F00.svg?style=for-the-badge&logo=java&logoColor=white" alt="TestNG"/>
+<img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+<img src="https://img.shields.io/badge/Robot_Framework-000000.svg?style=for-the-badge&logo=robot-framework&logoColor=white" alt="Robot Framework"/>
+<img src="https://img.shields.io/badge/Behave-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Behave"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=python&logoColor=white" alt="Pytest"/>
 
 ---
 
